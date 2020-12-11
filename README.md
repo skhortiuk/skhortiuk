@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Skhortiuk stats](https://github-readme-stats.vercel.app/api?username=skhortiuk&show_icons=true&theme=default&hide_border=true)
 ![Skhortiuk wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=skhortiuk)
 
 <!--
