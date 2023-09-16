@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Skhortiuk stats](https://github-readme-stats.vercel.app/api?username=skhortiuk&show_icons=true&theme=dark&hide_border=true)
-![Skhortiuk wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=skhortiuk&theme=dark)
 
 <!--
 **skhortiuk/skhortiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
